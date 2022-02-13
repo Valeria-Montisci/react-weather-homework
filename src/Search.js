@@ -9,7 +9,7 @@ export default function Search() {
           className="search-bar"
           type="search"
           placeholder="Enter city"
-          autocomplete="off"
+          autoComplete="off"
         />
         <input className="search-button" type="button" value="Search" />
       
