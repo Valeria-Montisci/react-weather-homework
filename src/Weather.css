@@ -1,0 +1,23 @@
+h2{font-size: 40px;
+margin-bottom: 3px;
+}
+.date, .time {
+  font-size: 18px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.now-temp{font-size: 40px;
+font-weight: bolder;
+padding: 10px;
+}
+.now-icon{padding: 15px}
+
+.weather-details{
+  list-style: none;
+ ;
+}
+.float{
+  float: left;
+}
+.now-info{margin-top: 30px;}
